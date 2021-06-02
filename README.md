@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @melvin-02
+👋 Hi, I’m Melvin Francis a computer science student from Atam Ram Sanatan Dharma College, University of Delhi. 
 - 👀 I’m interested in Data Science and Machine Learning
+- 💻 I've worked on tech like NLP with probabilistic models and sequence models, Deep Learning, openCV
 - 🌱 I’m currently learning about computer vision
 - 💞️ I’m looking to collaborate on innovative ML-DL projects
 - 📫 Reach me on my mail: melvinf22100@gmail.com 
