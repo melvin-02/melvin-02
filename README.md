@@ -1,4 +1,4 @@
-👋 Hi, I’m Melvin Francis a computer science student from Atam Ram Sanatan Dharma College, University of Delhi. 
+👋 Hi, I’m Melvin Francis a computer science student from National Institute of Technology, Patna 
 - 👀 I’m interested in Data Science and Machine Learning
 - 💻 I've worked on tech like NLP with probabilistic models and sequence models, Deep Learning, openCV
 - 🌱 I’m currently learning about computer vision
